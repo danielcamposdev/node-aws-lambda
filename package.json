@@ -1,0 +1,24 @@
+{
+  "name": "node-aws-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcamposdev/node-aws-lambda.git"
+  },
+  "keywords": [],
+  "author": "daniel.campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielcamposdev/node-aws-lambda/issues"
+  },
+  "homepage": "https://github.com/danielcamposdev/node-aws-lambda#readme",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
+}
